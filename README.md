@@ -24,7 +24,7 @@
 | projeto | Descrição | Tecnologia Principal |
 | --- | --- | --- | 
 | [Um projeto ](link) | Em breve | Não sei
-| [Curd básico](link) | Em breve | Não sei
+| [Crud básico](link) | Em breve | Não sei
 | [Em breve](link) | Projeto focado na minha área | Não sei
 
 ## Como falar comigo
